@@ -158,8 +158,8 @@
     "node": "20"
   },
   "epic-stack": {
-    "head": "f612dc44e1b57da7d955675c4a5ef628adc392c7",
-    "date": "2024-09-25T00:12:00Z"
+    "head": "3df5cb4ed0a1565e3ac1ae67ad2cbc99cd255ea3",
+    "date": "2024-09-25T02:18:08Z"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
